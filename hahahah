@@ -1,0 +1,226 @@
+<body class="chakra-ui-light"><noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVSZFH6&gtm_auth=&gtm_preview=&gtm_cookies_win=x"
+        height="0" width="0" style="display:none;visibility:hidden" id="tag-manager"></iframe></noscript><div id="__next" data-reactroot=""><div class="font-body"><div><div class="bg-background font-body bg-[url('/assets/backgroundTexture.svg')] bg-[top_-500px_center] bg-repeat-y text-color-1"><div class="grid h-full min-h-default w-full grid-cols-1 grid-rows-[auto_1fr_auto]"><div class="border-b border-accent-2"><div class="w-full bg-background px-4 md:px-10 lg:px-20"><div class="flex h-16 border-b border-b-accent-2"><div class="flex items-center"><img class="" src="/assets/gitcoinLogoWhite.svg" alt="Gitcoin Logo"><img class="mx-3 md:mx-6" src="/assets/logoLine.svg" alt="Logo Line"><img class="" src="/assets/passportLogoWhite.svg" alt="Passport Logo"><img class="mx-3 hidden md:block" src="/assets/passportWordWhite.svg" alt="Scorer"></div></div></div><div class="w-full bg-red-100 px-4 md:px-10 lg:px-20"></div><div class="mx-auto w-full px-4 md:px-10 lg:px-20 max-w-[1440px]"><div class="col-span-full grid w-full grid-cols-4 gap-4 justify-self-center
+      md:grid-cols-6 md:gap-6 lg:grid-cols-8 xl:grid-cols-12 my-4 min-h-[64px]"><div class="col-span-3 flex items-center justify-items-center self-center lg:col-span-4"><div class="flex text-2xl"><span class="font-heading">My Stamps</span><div class="group cursor-pointer" data-headlessui-state=""><div aria-expanded="false" data-headlessui-state="" id="headlessui-popover-button-11" aria-controls="headlessui-popover-panel-13"><div class="px-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="relative top-[.125em] h-[1em] w-[1em] text-muted"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm8.706-1.442c1.146-.573 2.437.463 2.126 1.706l-.709 2.836.042-.02a.75.75 0 01.67 1.34l-.04.022c-1.147.573-2.438-.463-2.127-1.706l.71-2.836-.042.02a.75.75 0 11-.671-1.34l.041-.022zM12 9a.75.75 0 100-1.5.75.75 0 000 1.5z" clip-rule="evenodd"></path></svg></div></div><div class="invisible z-10 w-4/5 max-w-screen-md rounded-md border border-accent-2 bg-background text-sm group-hover:visible" id="headlessui-popover-panel-13" tabindex="-1" data-headlessui-state="" data-popper-reference-hidden="false" data-popper-escaped="false" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; transform: translate(50px, 118px);"><div class="px-4 py-2">Gitcoin Passport is an identity aggregator that helps you build a digital identifier showcasing your unique humanity. Select the verification stamps you'd like to connect to start building your passport. The more verifications you have, the stronger your passport will be.</div></div></div></div></div><div class="col-span-1 col-end-[-1] flex justify-self-end"><div class="flex min-w-fit items-center"><div class="pr-2 invisible"><div class="chakra-spinner my-[2px] css-b25140"><span class="css-f8n5zr">Loading...</span></div></div><div class="flex flex-col items-center"><div class="flex text-2xl"><span class="text-[#FFE28A]">5.53</span><div class="group cursor-pointer" data-headlessui-state=""><div aria-expanded="false" data-headlessui-state="" id="headlessui-popover-button-16" aria-controls="headlessui-popover-panel-18"><div class="px-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" class="relative top-[.125em] h-[1em] w-[1em] text-muted"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm8.706-1.442c1.146-.573 2.437.463 2.126 1.706l-.709 2.836.042-.02a.75.75 0 01.67 1.34l-.04.022c-1.147.573-2.438-.463-2.127-1.706l.71-2.836-.042.02a.75.75 0 11-.671-1.34l.041-.022zM12 9a.75.75 0 100-1.5.75.75 0 000 1.5z" clip-rule="evenodd"></path></svg></div></div><div class="invisible z-10 w-4/5 max-w-screen-md rounded-md border border-accent-2 bg-background text-sm group-hover:visible" id="headlessui-popover-panel-18" tabindex="-1" data-headlessui-state="" data-popper-reference-hidden="false" data-popper-escaped="false" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; transform: translate(1086px, 108px);"><div class="px-4 py-2">Your Unique Humanity Score is based out of 100 and measures how unique you are. The current passing score threshold is 15.</div></div></div></div><div class="flex whitespace-nowrap text-sm">Low Score</div></div></div><div class="ml-4 flex flex-col place-items-center gap-4 self-center md:flex-row"><button data-testid="button-passport-json-mobile" class="h-10 w-10 rounded-md border border-muted">&lt;/&gt;</button></div></div></div></div></div><div class="px-4 md:px-10 lg:px-20 max-w-[1440px] w-full justify-self-center overflow-x-hidden mt-4 md:mt-6"><div class="col-span-full grid w-full grid-cols-4 gap-4 justify-self-center
+      md:grid-cols-6 md:gap-6 lg:grid-cols-8 xl:grid-cols-12 undefined"><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/gtcPossessionStampIcon.svg" alt="GTC" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">GTC</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">GTC possession verification</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Verify Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/gtcStakingLogoIcon.svg" alt="GTC Staking" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">GTC Staking</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect to passport to verify your staking amount.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Verify amount</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/gtcGrantsLightIcon.svg" alt="Gitcoin" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Gitcoin</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect with Github to verify with your Gitcoin account.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/twitterStampIcon.svg" alt="Twitter" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Twitter</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing Twitter account to verify.</p></div></div><div class="mt-auto text-color-3"><button class="chakra-menu__menu-button verify-btn flex css-kjvu41" data-testid="card-menu-button" id="menu-button-120" aria-expanded="false" aria-haspopup="menu" aria-controls="menu-list-120"><span class="css-xl71ch"><div class="m-auto flex items-center justify-center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="h-6 w-5 text-accent-3"><path fill-rule="evenodd" d="M9.661 2.237a.531.531 0 01.678 0 11.947 11.947 0 007.078 2.749.5.5 0 01.479.425c.069.52.104 1.05.104 1.59 0 5.162-3.26 9.563-7.834 11.256a.48.48 0 01-.332 0C5.26 16.564 2 12.163 2 7c0-.538.035-1.069.104-1.589a.5.5 0 01.48-.425 11.947 11.947 0 007.077-2.75zm4.196 5.954a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clip-rule="evenodd"></path></svg><span class="mx-2 translate-y-[1px]">Verified</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="h-6 w-6"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd"></path></svg></div></span></button><div class="css-r6z5ec" style="visibility: hidden; position: absolute; min-width: max-content; inset: 0px auto auto 0px;"><div tabindex="-1" role="menu" id="menu-list-120" aria-orientation="vertical" class="chakra-menu__menu-list css-ncstgu" style="margin-left: 16px; transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0px);"><button type="button" data-testid="view-json" id="menu-list-120-menuitem-116" role="menuitem" tabindex="-1" class="chakra-menu__menuitem css-icd7n8" data-index="0">View stamp JSON</button><button type="button" data-testid="manage-stamp" id="menu-list-120-menuitem-117" role="menuitem" tabindex="-1" class="chakra-menu__menuitem css-icd7n8" data-index="1">Manage stamp</button><button type="button" data-testid="remove-stamp" id="menu-list-120-menuitem-118" role="menuitem" tabindex="-1" class="chakra-menu__menuitem css-icd7n8" data-index="2">Remove stamp</button></div></div></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/discordStampIcon.svg" alt="Discord" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Discord</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing Discord account to verify.</p></div></div><div class="mt-auto text-color-3"><button class="chakra-menu__menu-button verify-btn flex css-kjvu41" data-testid="card-menu-button" id="menu-button-128" aria-expanded="false" aria-haspopup="menu" aria-controls="menu-list-128"><span class="css-xl71ch"><div class="m-auto flex items-center justify-center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="h-6 w-5 text-accent-3"><path fill-rule="evenodd" d="M9.661 2.237a.531.531 0 01.678 0 11.947 11.947 0 007.078 2.749.5.5 0 01.479.425c.069.52.104 1.05.104 1.59 0 5.162-3.26 9.563-7.834 11.256a.48.48 0 01-.332 0C5.26 16.564 2 12.163 2 7c0-.538.035-1.069.104-1.589a.5.5 0 01.48-.425 11.947 11.947 0 007.077-2.75zm4.196 5.954a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clip-rule="evenodd"></path></svg><span class="mx-2 translate-y-[1px]">Verified</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="h-6 w-6"><path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z" clip-rule="evenodd"></path></svg></div></span></button><div class="css-r6z5ec" style="visibility: hidden; position: absolute; min-width: max-content; inset: 0px auto auto 0px;"><div tabindex="-1" role="menu" id="menu-list-128" aria-orientation="vertical" class="chakra-menu__menu-list css-ncstgu" data-projection-id="3" style="margin-left: 16px; transform-origin: var(--popper-transform-origin); opacity: 0; visibility: hidden; transform: scale(0.8) translateZ(0px);"><button type="button" data-testid="view-json" id="menu-list-128-menuitem-124" role="menuitem" tabindex="-1" class="chakra-menu__menuitem css-icd7n8" data-index="0">View stamp JSON</button><button type="button" data-testid="manage-stamp" id="menu-list-128-menuitem-125" role="menuitem" tabindex="-1" class="chakra-menu__menuitem css-icd7n8" data-index="1">Manage stamp</button><button type="button" data-testid="remove-stamp" id="menu-list-128-menuitem-126" role="menuitem" tabindex="-1" class="chakra-menu__menuitem css-icd7n8" data-index="2">Remove stamp</button></div></div></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/googleStampIcon.svg" alt="Google" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Google</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing Google Account to verify</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/githubWhiteStampIcon.svg" alt="Github" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Github</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing Github account to verify.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/facebookStampIcon.svg" alt="Facebook" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Facebook</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing account to verify with Facebook.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/linkedinStampIcon.svg" alt="Linkedin" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Linkedin</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing Linkedin account to verify.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/ensStampIcon.svg" alt="ENS" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">ENS</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Purchase an .eth name to verify/ connect your existing account.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/poapStampIcon.svg" alt="POAP" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">POAP</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect an account to a POAP owned for over 15 days.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect to POAP</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/brightidStampIcon.svg" alt="BrightID" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">BrightID</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your BrightID</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/pohStampIcon.svg" alt="Proof of Humanity" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Proof of Humanity</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your wallet to start the process of verifying with Proof of Humanity.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/ethereumStampIcon.svg" alt="ETH" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">ETH</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">ETH possession and transaction verification</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Verify Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/snapshotStampIcon.svg" alt="Snapshot" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Snapshot</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing account to verify with Snapshot.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Verify Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/gitPOAPStampIcon.svg" alt="GitPOAP" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">GitPOAP</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">GitPOAP Verification</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/nftStampIcon.svg" alt="NFT Holder" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">NFT Holder</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect a wallet and validate the stamp by retrieving an NFT.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect NFT</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/zksyncStampIcon.svg" alt="ZkSync" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">ZkSync</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">ZkSync Verification</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Verify Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/lensWhiteStampIcon.svg" alt="Lens" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Lens</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Lens Profile Verification</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Verify Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/gnosisSafeStampIcon.svg" alt="Gnosis Safe" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Gnosis Safe</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Gnosis Safe Signer/Owner Verification</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Verify Account</button></div></div></div><div class="col-span-2 md:col-span-3 lg:col-span-2 xl:col-span-3"><div class="relative flex h-full flex-col border border-accent-2 bg-background-2 p-0"><div class="m-4 md:m-6 md:mb-10"><div class="flex flex-row"><div class="flex h-10 w-10 flex-grow justify-center md:justify-start"><img src="./assets/coinbaseStampIcon.svg" alt="Coinbase" class="h-10 w-10"></div></div><div class="mt-4 flex justify-center md:mt-6 md:block md:justify-start"><h1 class="text-lg">Coinbase</h1><p class="pleading-relaxed mt-2 hidden text-color-4 md:inline-block">Connect your existing account to verify with Coinbase.</p></div></div><div class="mt-auto text-color-3"><button class="verify-btn">Connect Account</button></div></div></div></div></div><div class="col-span-full grid w-full grid-cols-4 gap-4 justify-self-center
+      md:grid-cols-6 md:gap-6 lg:grid-cols-8 xl:grid-cols-12 grid-flow-dense py-8 font-alt text-color-1 lg:flex px-4 md:px-10 lg:px-20"><div class="col-span-3 grow md:col-span-4"><span class="text-color-3">Available on </span><a href="https://ceramic.network/" target="_blank" rel="noopener noreferrer" class="hover:underline">Ceramic.</a></div><a href="https://support.gitcoin.co/gitcoin-knowledge-base/gitcoin-passport/what-is-gitcoin-passport" target="_blank" rel="noopener noreferrer" class="col-span-4 hover:underline">Learn More</a><a href="https://scorer.gitcoin.co/" target="_blank" rel="noopener noreferrer" class="col-span-4 hover:underline">Gitcoin Passport Scorer</a><a href="https://github.com/gitcoinco/passport/commit/4e008e8" target="_blank" rel="noopener noreferrer" class="col-span-4 hover:underline">Git commit</a><div class="col-start-[-2] col-end-[-1] flex items-center justify-self-end md:col-start-[-3]"><a href="https://github.com/gitcoinco/passport" target="_blank" rel="noopener noreferrer" class="mr-8"><img src="./assets/githubLogoLight.svg" alt="Github Logo"></a><a href="https://docs.passport.gitcoin.co" target="_blank" rel="noopener noreferrer"><img src="./assets/docsIconLight.svg" alt="Docs Icon"></a></div></div></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{}},"page":"/","query":{},"buildId":"N3zIjZ4M8TYyrFxz0NKNK","nextExport":true,"autoExport":true,"isFallback":false,"scriptLoader":[]}</script><onboard-v2 style="all: initial;"></onboard-v2><style>
+    
+@font-face {
+  font-family: 'Inter';
+  font-style:  normal;
+  font-weight: 300 600;
+  font-display: swap;
+  src: url("https://rsms.me/inter/font-files/Inter-roman.var.woff2?v=3.19") format("woff2");
+}
+
+  </style><div id="chakra-toast-portal"><ul id="chakra-toast-manager-top" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto; top: env(safe-area-inset-top, 0px); right: env(safe-area-inset-right, 0px); left: env(safe-area-inset-left, 0px);"></ul><ul id="chakra-toast-manager-top-left" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; top: env(safe-area-inset-top, 0px); left: env(safe-area-inset-left, 0px);"></ul><ul id="chakra-toast-manager-top-right" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; top: env(safe-area-inset-top, 0px); right: env(safe-area-inset-right, 0px);"></ul><ul id="chakra-toast-manager-bottom-left" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; bottom: env(safe-area-inset-bottom, 0px); left: env(safe-area-inset-left, 0px);"></ul><ul id="chakra-toast-manager-bottom" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; margin: 0px auto; bottom: env(safe-area-inset-bottom, 0px); right: env(safe-area-inset-right, 0px); left: env(safe-area-inset-left, 0px);"></ul><ul id="chakra-toast-manager-bottom-right" style="position: fixed; z-index: 5500; pointer-events: none; display: flex; flex-direction: column; bottom: env(safe-area-inset-bottom, 0px); right: env(safe-area-inset-right, 0px);"></ul></div><next-route-announcer><p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;"></p></next-route-announcer><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><iframe id="intercom-frame" style="position: absolute !important; opacity: 0 !important; width: 1px !important; height: 1px !important; top: 0 !important; left: 0 !important; border: none !important; display: block !important; z-index: -1 !important; pointer-events: none;" aria-hidden="true" tabindex="-1" title="Intercom"></iframe><div class="intercom-lightweight-app"><div class="intercom-lightweight-app-launcher intercom-launcher" role="button" tabindex="0" aria-label="Open Intercom Messenger" aria-live="polite"><div class="intercom-lightweight-app-launcher-icon intercom-lightweight-app-launcher-icon-open"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 32"><path d="M28 32s-4.714-1.855-8.527-3.34H3.437C1.54 28.66 0 27.026 0 25.013V3.644C0 1.633 1.54 0 3.437 0h21.125c1.898 0 3.437 1.632 3.437 3.645v18.404H28V32zm-4.139-11.982a.88.88 0 00-1.292-.105c-.03.026-3.015 2.681-8.57 2.681-5.486 0-8.517-2.636-8.571-2.684a.88.88 0 00-1.29.107 1.01 1.01 0 00-.219.708.992.992 0 00.318.664c.142.128 3.537 3.15 9.762 3.15 6.226 0 9.621-3.022 9.763-3.15a.992.992 0 00.317-.664 1.01 1.01 0 00-.218-.707z"></path></svg></div><div class="intercom-lightweight-app-launcher-icon intercom-lightweight-app-launcher-icon-minimize"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M18.601 8.39897C18.269 8.06702 17.7309 8.06702 17.3989 8.39897L12 13.7979L6.60099 8.39897C6.26904 8.06702 5.73086 8.06702 5.39891 8.39897C5.06696 8.73091 5.06696 9.2691 5.39891 9.60105L11.3989 15.601C11.7309 15.933 12.269 15.933 12.601 15.601L18.601 9.60105C18.9329 9.2691 18.9329 8.73091 18.601 8.39897Z" fill="white"></path>
+</svg>
+</div></div><style id="intercom-lightweight-app-style" type="text/css">
+  @keyframes intercom-lightweight-app-launcher {
+    from {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  @keyframes intercom-lightweight-app-gradient {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  @keyframes intercom-lightweight-app-messenger {
+    0% {
+      opacity: 0;
+      transform: scale(0);
+    }
+    40% {
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+
+  .intercom-lightweight-app {
+    position: fixed;
+    z-index: 2147483001;
+    width: 0;
+    height: 0;
+    font-family: intercom-font, "Helvetica Neue", "Apple Color Emoji", Helvetica, Arial, sans-serif;
+  }
+
+  .intercom-lightweight-app-gradient {
+    position: fixed;
+    z-index: 2147483002;
+    width: 500px;
+    height: 500px;
+    bottom: 0;
+    right: 0;
+    pointer-events: none;
+    background: radial-gradient(
+      ellipse at bottom right,
+      rgba(29, 39, 54, 0.16) 0%,
+      rgba(29, 39, 54, 0) 72%);
+    animation: intercom-lightweight-app-gradient 200ms ease-out;
+  }
+
+  .intercom-lightweight-app-launcher {
+    position: fixed;
+    z-index: 2147483003;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none;
+    bottom: 20px;
+    right: 20px;
+    max-width: 48px;
+    width: 48px;
+    max-height: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: #083A40;
+    cursor: pointer;
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.06), 0 2px 32px 0 rgba(0, 0, 0, 0.16);
+    transition: transform 167ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    box-sizing: content-box;
+  }
+
+
+  .intercom-lightweight-app-launcher:hover {
+    transition: transform 250ms cubic-bezier(0.33, 0.00, 0.00, 1.00);
+    transform: scale(1.1)
+  }
+
+  .intercom-lightweight-app-launcher:active {
+    transform: scale(0.85);
+    transition: transform 134ms cubic-bezier(0.45, 0, 0.2, 1);
+  }
+
+
+  .intercom-lightweight-app-launcher:focus {
+    outline: none;
+
+    
+  }
+
+  .intercom-lightweight-app-launcher-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 48px;
+    height: 48px;
+    transition: transform 100ms linear, opacity 80ms linear;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-open svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve {
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg {
+    height: 44px;
+  }
+
+  .intercom-lightweight-app-launcher-icon-self-serve svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-launcher-custom-icon-open {
+    max-height: 24px;
+    max-width: 24px;
+
+    
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize {
+    
+        opacity: 0;
+        transform: rotate(-60deg) scale(0);
+      
+  }
+
+  .intercom-lightweight-app-launcher-icon-minimize svg path {
+    fill: rgb(255, 255, 255);
+  }
+
+  .intercom-lightweight-app-messenger {
+    position: fixed;
+    z-index: 2147483003;
+    overflow: hidden;
+    background-color: white;
+    animation: intercom-lightweight-app-messenger 250ms cubic-bezier(0, 1, 1, 1);
+    transform-origin: bottom right;
+    
+        width: 400px;
+        height: calc(100% - 104px);
+        max-height: 704px;
+        min-height: 250px;
+        right: 20px;
+        bottom: 84px;
+        box-shadow: 0 5px 40px rgba(0,0,0,0.16);
+      
+
+    border-radius: 16px;
+  }
+
+  .intercom-lightweight-app-messenger-header {
+    height: 64px;
+    border-bottom: none;
+    background: #FAF7F3
+
+    
+  }
+
+  .intercom-lightweight-app-messenger-footer{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    height: 80px;
+    background: #fff;
+    font-size: 14px;
+    line-height: 21px;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.05);
+    
+  }
+
+  @media print {
+    .intercom-lightweight-app {
+      display: none;
+    }
+  }
+</style></div><div data-reach-live-polite="true"><div style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; width: 1px; white-space: nowrap; overflow-wrap: normal;"><div role="status" aria-live="polite"></div></div></div><div class="chakra-portal"><div class="chakra-modal__overlay css-14rxmsw" data-projection-id="5" style="opacity: 1;"></div><div class="chakra-modal__content-container css-1lz89iw"><div data-focus-guard="true" tabindex="0" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"></div><div data-focus-guard="true" tabindex="1" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"></div><div data-focus-lock-disabled="false"><div role="dialog" id="chakra-modal-7" tabindex="-1" aria-modal="true" class="chakra-slide chakra-modal__content css-1byahfz" data-projection-id="6" aria-labelledby="chakra-modal--header-7" aria-describedby="chakra-modal--body-7" style="position: fixed; right: 0px; top: 0px; bottom: 0px; width: 100%; background-color: var(--color-background-2); border: 1px solid var(--color-accent-2); border-radius: 6px; transform: translateX(0%) translateY(0px) translateZ(0px);"><button type="button" aria-label="Close" class="chakra-modal__close-btn z-10 text-color-1 css-1iqbypn"><svg viewBox="0 0 24 24" focusable="false" class="chakra-icon css-onkibi" aria-hidden="true"><path fill="currentColor" d="M.439,21.44a1.5,1.5,0,0,0,2.122,2.121L11.823,14.3a.25.25,0,0,1,.354,0l9.262,9.263a1.5,1.5,0,1,0,2.122-2.121L14.3,12.177a.25.25,0,0,1,0-.354l9.263-9.262A1.5,1.5,0,0,0,21.439.44L12.177,9.7a.25.25,0,0,1-.354,0L2.561.44A1.5,1.5,0,0,0,.439,2.561L9.7,11.823a.25.25,0,0,1,0,.354Z"></path></svg></button><div class="overflow-auto"><header class="chakra-modal__header css-9fgtzh" id="chakra-modal--header-7" style="font-weight: inherit;"><div class="w-full text-center text-color-1 md:pt-4"><div class="inline-flex h-20 w-20 items-center justify-center rounded-full"><img alt="Platform Image" class="h-full w-full" src="./assets/githubWhiteStampIcon.svg"></div><div class="flex flex-col items-center justify-center text-center"><h2 class="mt-4 text-2xl">Github</h2><p class="text-base text-color-4">Connect your existing Github account to verify.</p></div></div></header><div class="chakra-modal__body css-79z5gx" id="chakra-modal--body-7" style="padding-inline: 0px;"><div><div class="flex pl-4 pr-6"><span data-testid="select-all" class="ml-auto py-2 text-sm cursor-pointer text-accent-3 ">Select all</span></div><div class="border-b border-accent-2 py-4 px-6 border-t"><p class="ml-4 mb-1 text-sm text-color-4">Account Name</p><div class="flex flex-row justify-between"><ul class="list-disc marker:text-3xl "><li class="ml-4 text-color-4" data-testid="indicator-Github"><div class="text-md relative top-[-0.3em] text-color-4">Encrypted</div></li></ul><div class="align-right ml-2"><button class="group relative flex h-7 w-12 items-center rounded-full bg-accent-2 ui-checked:bg-accent ui-selected:border undefined" data-testid="switch-0" id="headlessui-switch-25" role="switch" type="button" tabindex="0" aria-checked="true" data-headlessui-state="checked"><span class="inline-block h-5 w-5 translate-x-1 transform rounded-full bg-color-1 transition group-disabled:opacity-25 ui-checked:translate-x-6"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" class="block text-accent-2 ui-checked:hidden relative left-[2px] top-[2px] h-4 w-4 stroke-[3]"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" class="hidden text-accent ui-checked:block relative left-[2px] top-[2px] h-4 w-4 stroke-[3]"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5"></path></svg></span></button></div></div></div><div class="border-b border-accent-2 py-4 px-6 "><p class="ml-4 mb-1 text-sm text-color-4">Repositories</p><div class="flex flex-row justify-between"><ul class="list-disc marker:text-3xl "><li class="ml-4 text-color-4" data-testid="indicator-FiveOrMoreGithubRepos"><div class="text-md relative top-[-0.3em] text-color-4">Five or more Github repos</div></li><li class="ml-4 text-color-4" data-testid="indicator-ForkedGithubRepoProvider"><div class="text-md relative top-[-0.3em] text-color-4">At least 1 Github repo forked by another user</div></li><li class="ml-4 text-color-4" data-testid="indicator-StarredGithubRepoProvider"><div class="text-md relative top-[-0.3em] text-color-4">At least 1 Github repo starred by another user</div></li></ul><div class="align-right ml-2"><button class="group relative flex h-7 w-12 items-center rounded-full bg-accent-2 ui-checked:bg-accent ui-selected:border undefined" data-testid="switch-1" id="headlessui-switch-26" role="switch" type="button" tabindex="0" aria-checked="false" data-headlessui-state=""><span class="inline-block h-5 w-5 translate-x-1 transform rounded-full bg-color-1 transition group-disabled:opacity-25 ui-checked:translate-x-6"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" class="block text-accent-2 ui-checked:hidden relative left-[2px] top-[2px] h-4 w-4 stroke-[3]"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" class="hidden text-accent ui-checked:block relative left-[2px] top-[2px] h-4 w-4 stroke-[3]"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5"></path></svg></span></button></div></div></div><div class="border-b border-accent-2 py-4 px-6 "><p class="ml-4 mb-1 text-sm text-color-4">Followers</p><div class="flex flex-row justify-between"><ul class="list-disc marker:text-3xl "><li class="ml-4 text-color-4" data-testid="indicator-TenOrMoreGithubFollowers"><div class="text-md relative top-[-0.3em] text-color-4">Ten or more Github followers</div></li><li class="ml-4 text-color-4" data-testid="indicator-FiftyOrMoreGithubFollowers"><div class="text-md relative top-[-0.3em] text-color-4">Fifty or more Github followers</div></li></ul><div class="align-right ml-2"><button class="group relative flex h-7 w-12 items-center rounded-full bg-accent-2 ui-checked:bg-accent ui-selected:border undefined" data-testid="switch-2" id="headlessui-switch-27" role="switch" type="button" tabindex="0" aria-checked="false" data-headlessui-state=""><span class="inline-block h-5 w-5 translate-x-1 transform rounded-full bg-color-1 transition group-disabled:opacity-25 ui-checked:translate-x-6"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" class="block text-accent-2 ui-checked:hidden relative left-[2px] top-[2px] h-4 w-4 stroke-[3]"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"></path></svg><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" class="hidden text-accent ui-checked:block relative left-[2px] top-[2px] h-4 w-4 stroke-[3]"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5"></path></svg></span></button></div></div></div><div class="px-4"><button class="group flex items-center justify-center gap-4 rounded-md px-5 py-2 text-color-1
+        disabled:cursor-not-allowed disabled:bg-accent-2 disabled:brightness-75
+        bg-accent hover:bg-muted enabled:hover:text-accent mt-10 w-full" data-testid="button-verify-Github">Verify</button></div></div></div></div></div></div><div data-focus-guard="true" tabindex="0" style="width: 1px; height: 0px; padding: 0px; overflow: hidden; position: fixed; top: 1px; left: 1px;"></div></div></div></body>
